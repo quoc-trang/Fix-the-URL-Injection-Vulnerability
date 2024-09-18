@@ -1,0 +1,1 @@
+- the urls are sanitized and no arbitrary JavaScript is run when clicking on the unsafe link
